@@ -17,3 +17,14 @@ Below is a list of basic commands that are commonly used:
 - `git add` - Add file contents to the index
 - `git commit` - Record changes to the repository
 - `git push` - Update remote refs along with associated objects
+
+## Linux Commands
+
+- `pwd` - Print working directory
+- `cp` - Copy files or directories
+- `mv` - Move or rename files or directories
+- `chmod` - Change file mode bits
+- `grep` - Search for a pattern in files
+- `sudo` - Execute a command as the superuser
+- `apt-get` - Package handling utility in Debian-based systems
+- `yum` - Package handling utility in Red Hat-based systems
