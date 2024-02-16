@@ -28,3 +28,9 @@ Below is a list of basic commands that are commonly used:
 - `sudo` - Execute a command as the superuser
 - `apt-get` - Package handling utility in Debian-based systems
 - `yum` - Package handling utility in Red Hat-based systems
+- `find` - Search for files in a directory hierarchy
+- `awk` - Pattern scanning and processing language
+- `sed` - Stream editor for filtering and transforming text
+- `cat` - Concatenate and display files
+- `head` - Output the first part of files
+- `tail` - Output the last part of files
