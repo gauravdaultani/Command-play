@@ -16,7 +16,7 @@ Below is a list of basic commands that are commonly used:
 - `git clone` - Clone a repository into a new directory
 - `git add` - Add file contents to the index
 - `git commit` - Record changes to the repository
-- `git push` - Update remote refs along with associated objects
+- `git push` - Update remote refs along with associated objects 
 
 ## Linux Commands
 
@@ -34,6 +34,5 @@ Below is a list of basic commands that are commonly used:
 - `cat` - Concatenate and display files
 - `head` - Output the first part of files
 - `tail` - Output the last part of files
-- `next.js app` - make an app in next js
-- 
-- 
+- `npx create-next-app@latest app-name` - make an app in next js
+  
