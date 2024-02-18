@@ -34,3 +34,6 @@ Below is a list of basic commands that are commonly used:
 - `cat` - Concatenate and display files
 - `head` - Output the first part of files
 - `tail` - Output the last part of files
+- `next.js app` - make an app in next js
+- 
+- 
