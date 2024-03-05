@@ -36,3 +36,4 @@ Below is a list of basic commands that are commonly used:
 - `tail` - Output the last part of files
 - `npx create-next-app@latest app-name` - make an app in next js
   
+  
